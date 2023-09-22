@@ -1,0 +1,8 @@
+C:\Users\DaniT\Desktop\clases\Prog\Practicas\EjercicioRepasoNET\EjercicioRepasoNET\bin\Debug\EjercicioRepasoNET.exe.config
+C:\Users\DaniT\Desktop\clases\Prog\Practicas\EjercicioRepasoNET\EjercicioRepasoNET\bin\Debug\EjercicioRepasoNET.exe
+C:\Users\DaniT\Desktop\clases\Prog\Practicas\EjercicioRepasoNET\EjercicioRepasoNET\bin\Debug\EjercicioRepasoNET.pdb
+C:\Users\DaniT\Desktop\clases\Prog\Practicas\EjercicioRepasoNET\EjercicioRepasoNET\obj\Debug\EjercicioRepasoNET.csproj.AssemblyReference.cache
+C:\Users\DaniT\Desktop\clases\Prog\Practicas\EjercicioRepasoNET\EjercicioRepasoNET\obj\Debug\EjercicioRepasoNET.csproj.SuggestedBindingRedirects.cache
+C:\Users\DaniT\Desktop\clases\Prog\Practicas\EjercicioRepasoNET\EjercicioRepasoNET\obj\Debug\EjercicioRepasoNET.csproj.CoreCompileInputs.cache
+C:\Users\DaniT\Desktop\clases\Prog\Practicas\EjercicioRepasoNET\EjercicioRepasoNET\obj\Debug\EjercicioRepasoNET.exe
+C:\Users\DaniT\Desktop\clases\Prog\Practicas\EjercicioRepasoNET\EjercicioRepasoNET\obj\Debug\EjercicioRepasoNET.pdb
