@@ -28,7 +28,7 @@ namespace Controladores
                     switch (opcion)
                     {
                         case 1:
-                            intE.RegistroEmpleado(bdMain);
+
                             break;
                         case 2:
                             intE.ModificarRegistro(bdMain);
